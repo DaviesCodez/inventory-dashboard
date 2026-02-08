@@ -1,0 +1,51 @@
+item_id,item_name,category,quantity_in_stock,reorder_level,price_per_unit,supplier,last_updated
+1,HDMI Adapter,Electronics,71,20,76.16,Supplier A,2026-01-31
+2,Stapler,Office Supplies,50,12,91.33,Supplier A,2026-02-02
+3,Wireless Mouse,Electronics,62,26,21.01,Supplier B,2026-01-17
+4,Notebook,Office Supplies,22,17,188.35,Supplier C,2026-01-21
+5,Keyboard,Electronics,88,27,41.76,Supplier B,2026-01-20
+6,Ballpoint Pens,Office Supplies,8,23,102.11,Supplier C,2026-01-12
+7,Bookshelf,Furniture,8,12,69.7,Supplier A,2026-01-26
+8,USB-C Cable,Electronics,66,15,9.83,Supplier C,2026-02-02
+9,Notebook,Office Supplies,91,25,108.88,Supplier B,2026-01-28
+10,Pen Pack,Office Supplies,77,19,33.68,Supplier B,2026-01-17
+11,HDMI Adapter,Electronics,73,22,66.99,Supplier B,2026-01-30
+12,Ballpoint Pens,Office Supplies,96,27,144.12,Supplier B,2026-01-11
+13,Sticky Notes,Office Supplies,80,16,117.39,Supplier C,2026-02-01
+14,Highlighters,Office Supplies,16,17,87.02,Supplier A,2026-01-24
+15,Pen Pack,Office Supplies,4,22,154.65,Supplier C,2026-01-28
+16,USB-C Cable,Electronics,11,14,176.03,Supplier C,2026-02-04
+17,Webcam,Electronics,57,30,122.62,Supplier B,2026-02-04
+18,Keyboard,Electronics,44,29,159.89,Supplier B,2026-01-17
+19,External Hard Drive,Electronics,22,14,116.58,Supplier C,2026-01-23
+20,Stapler,Office Supplies,95,15,149.25,Supplier B,2026-02-04
+21,Notebook,Office Supplies,55,18,84.52,Supplier A,2026-01-24
+22,Webcam,Electronics,25,12,107.2,Supplier C,2026-02-05
+23,Notebook,Office Supplies,48,12,94.13,Supplier B,2026-01-08
+24,HDMI Adapter,Electronics,58,28,156.69,Supplier B,2026-01-09
+25,Filing Cabinet,Furniture,56,20,156.77,Supplier A,2026-02-03
+26,HDMI Adapter,Electronics,81,28,112.23,Supplier C,2026-01-21
+27,External Hard Drive,Electronics,17,14,143.25,Supplier B,2026-01-18
+28,Monitor Stand,Furniture,28,19,147.56,Supplier C,2026-01-24
+29,Webcam,Electronics,26,12,155.25,Supplier C,2026-01-20
+30,Notebook,Office Supplies,53,30,99.63,Supplier C,2026-02-06
+31,USB-C Cable,Electronics,100,26,49.66,Supplier C,2026-02-01
+32,Monitor Stand,Furniture,85,12,43.59,Supplier B,2026-01-27
+33,HDMI Adapter,Electronics,46,27,89.28,Supplier A,2026-01-26
+34,Monitor Stand,Furniture,38,14,62.59,Supplier C,2026-02-06
+35,HDMI Adapter,Electronics,9,20,39.6,Supplier B,2026-01-26
+36,Wireless Mouse,Electronics,45,26,128.79,Supplier B,2026-01-29
+37,Wireless Mouse,Electronics,59,18,130.43,Supplier A,2026-01-14
+38,Pen Pack,Office Supplies,83,12,177.09,Supplier B,2026-01-09
+39,Wireless Mouse,Electronics,80,20,8.71,Supplier B,2026-01-12
+40,USB-C Cable,Electronics,73,17,38.95,Supplier B,2026-02-03
+41,Desk Chair,Furniture,69,13,178.74,Supplier B,2026-01-21
+42,USB-C Cable,Electronics,54,18,45.11,Supplier A,2026-01-20
+43,Desk Chair,Furniture,66,28,73.41,Supplier B,2026-01-28
+44,Desk Organizer,Office Supplies,91,11,134.31,Supplier C,2026-01-26
+45,Headphones,Electronics,14,20,107.27,Supplier B,2026-02-06
+46,Earbuds,Electronics,77,14,188.89,Supplier C,2026-01-30
+47,External Hard Drive,Electronics,6,15,144.93,Supplier C,2026-02-07
+48,HDMI Adapter,Electronics,23,16,106.71,Supplier B,2026-01-25
+49,External Hard Drive,Electronics,99,15,125.33,Supplier B,2026-01-13
+50,Tablet,Electronics,45,25,153.45,Supplier A,2026-01-19
